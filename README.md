@@ -1,3 +1,7 @@
+# About
+This is my first ever Web App ive made on my web developer journey on scrimba.
+check out a live preview: https://fabulous-praline-ea95f2.netlify.app/
+
 # Getting Started
 Install the dependencies and run the project
 ```
